@@ -1,0 +1,50 @@
+{
+  "input": {
+    "String": 0.62,
+    "FilePath": 0.18,
+    "URL": 0.12,
+    "JSON": 0.05,
+    "RepositoryRef": 0.04,
+    "CodeDiff": 0.03
+  },
+  "output": {
+    "Markdown": 0.45,
+    "JSON": 0.28,
+    "PlainText": 0.15,
+    "File": 0.08,
+    "Notification": 0.03,
+    "OperationStatus": 0.01
+  },
+  "context": {
+    "GitHubCredentials": 0.38,
+    "Git": 0.34,
+    "Docker": 0.22,
+    "GenericAPIKey": 0.20,
+    "NodeJS": 0.10,
+    "Python": 0.08,
+    "Kubernetes": 0.15,
+    "SlackCredentials": 0.12,
+    "AWSCredentials": 0.14
+  },
+  "failure_modes": {
+    "missing_prerequisites": 0.28,
+    "ambiguous_instructions": 0.22,
+    "permission_errors": 0.11,
+    "environment_drift": 0.06,
+    "timeout": 0.05,
+    "other": 0.28
+  },
+  "metadata": {
+    "corpus_size": 13729,
+    "snapshot_date": "2026-02-08",
+    "sample_size_execution": 2847,
+    "effective_sample_size": 2435,
+    "overall_failure_rate": 0.67,
+    "overall_success_rate": 0.33,
+    "clustering_k": 12,
+    "silhouette_score": 0.61,
+    "skills_with_no_typed_interface": 0.89,
+    "skills_with_permission_overdeclaration": 0.41,
+    "skills_with_undeclared_dependencies": 0.34
+  }
+}

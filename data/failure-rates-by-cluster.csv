@@ -1,0 +1,13 @@
+cluster_id,cluster_label,n_total,n_sampled,n_success,n_fail,n_untestable,success_rate,primary_failure_mode
+0,string-to-markdown,3418,587,241,298,48,0.45,ambiguous_instructions
+1,string-to-json,1784,312,119,161,32,0.43,ambiguous_instructions
+2,filepath-to-markdown,1236,198,72,104,22,0.41,missing_prerequisites
+3,filepath-to-json,824,143,48,78,17,0.38,missing_prerequisites
+4,url-to-markdown,987,168,67,82,19,0.45,permission_errors
+5,url-to-json,659,115,42,58,15,0.42,permission_errors
+6,repo-to-status,549,102,28,62,12,0.31,missing_prerequisites
+7,repo-to-markdown,412,78,24,44,10,0.35,environment_drift
+8,codediff-to-report,274,54,19,29,6,0.40,missing_prerequisites
+9,notification-sinks,356,67,31,28,8,0.53,permission_errors
+10,devops-pipelines,1644,298,87,178,33,0.33,missing_prerequisites
+11,misc-utilities,1586,325,127,162,36,0.44,ambiguous_instructions
