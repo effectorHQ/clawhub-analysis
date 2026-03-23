@@ -150,10 +150,6 @@ and Failure Rates Across 13,729 Agent Capabilities.
 https://github.com/effectorHQ/clawhub-analysis
 ```
 
----
-
-Apache License 2.0 — effectorHQ Contributors
-
 ## License
 
-This project is currently licensed under the Apache 2.0 License 。
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
