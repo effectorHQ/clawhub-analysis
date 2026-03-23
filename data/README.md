@@ -79,3 +79,7 @@ Aggregated type distributions. This file directly informed the `effector-types` 
   }
 }
 ```
+
+## License
+
+This project is currently licensed under the Apache 2.0 License 。

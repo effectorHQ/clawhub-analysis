@@ -152,4 +152,8 @@ https://github.com/effectorHQ/clawhub-analysis
 
 ---
 
-MIT License — effectorHQ Contributors
+Apache License 2.0 — effectorHQ Contributors
+
+## License
+
+This project is currently licensed under the Apache 2.0 License 。
